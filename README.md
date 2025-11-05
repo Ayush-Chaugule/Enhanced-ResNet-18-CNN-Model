@@ -1,5 +1,6 @@
 # Enhanced-ResNet-18-CNN-Model
 A Partial Differential Equation–Enhanced Convolutional Neural Network Model (PDE-Enhanced CNN)
+---
 
 This repository contains work that is currently under publication. 
 The contents are shared for review and archival purposes only. 
