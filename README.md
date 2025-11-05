@@ -2,9 +2,7 @@
 A Partial Differential Equation–Enhanced Convolutional Neural Network Model (PDE-Enhanced CNN)
 ---
 
-This repository contains work that is currently under publication. 
-The contents are shared for review and archival purposes only. 
-Reproduction, redistribution, or use of this material is not permitted until the associated paper is published. 
+This code and related materials are part of an ongoing research publication and are not open for public use, reproduction, or modification.
 
 ---
 All rights reserved © 2025 Ayush.
